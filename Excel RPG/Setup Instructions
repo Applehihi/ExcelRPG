@@ -1,5 +1,12 @@
-Have all excel files in the folder open
-Game is played in the Game.xlsx file
-Type restart to restart the entire game
-Saving and loading is not implemented(yet?)
-Type start to start the game
+When first downloaded open all excel files one, disabled protected mode(in the prompt) for all the files
+Go to file
+Go to options
+Go to formulas
+Check enable iterative calculations box
+Set maximum iterations to 10
+Close the files
+After closing, open them all again
+You can now play
+Game is played in the Game file, but all other files must be open in order for it to work
+Type start in the input box to start,
+Type restart to restart(full restart!)
